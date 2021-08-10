@@ -1,0 +1,118 @@
+.info {
+  padding: 70px 100px 20px 100px;
+  display: flex;
+  flex-direction: column;
+  .section-info-header {
+    display: flex;
+    font-size: 17px;
+    flex-direction: column;
+    margin-bottom: 30px;
+    .section-title {
+      font-size: 14px;
+      font-family: 'Montserrat', sans-serif;
+      font-weight: 400;
+      color: #353535;
+      text-transform: uppercase;
+      font-weight: 600;
+      line-height: 20px;
+      letter-spacing: 3px;
+    }
+    .section-title:after {
+      content: '';
+      display: block;
+      width: 50px;
+      height: 1px;
+      background: #0000003d;
+      margin-top: 12px;
+    }
+    .section-sub-title {
+      font-family: 'Playfair Display', serif;
+      font-size: 33px;
+      line-height: 40px;
+      color: #a7a7a7;
+      font-weight: 400;
+      align-self: center;
+      margin-top: 15px;
+      strong {
+        font-style: italic;
+        color: #615151fc;
+      }
+    }
+  }
+  .section-info-wrap {
+    display: grid;
+    grid-template-columns: repeat(2, 50%);
+    gap: 20px;
+    margin-bottom: 30px;
+    .service-info {
+      padding: 10px;
+      .info-title {
+        font-family: 'Playfair Display', serif;
+        font-size: 27px;
+        line-height: 20px;
+        font-weight: 400;
+        color: #6b3d3de0;
+        font-style: italic;
+        margin: 35px 0 50px 0;
+        letter-spacing: 2px;
+      }
+      .info-title:after {
+        content: '';
+        display: block;
+        width: 50px;
+        height: 1px;
+        background: #0000003d;
+        margin-top: 20px;
+      }
+      .event-photo {
+        width: 238px;
+        height: 152px;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        box-shadow: 4px 4px 51px 0px rgb(57 30 19 / 65%);
+        margin: 0 auto;
+      }
+      p{
+        font-weight: 600;
+        color: rgb(0 0 0 / 81%);
+        text-align: justify;
+        padding: 10px 10px;
+        margin-bottom: 40px;
+      }
+    }
+  }
+  .info-price{
+    font-family: "Playfair Display", serif;
+    font-weight: 400;
+    color: rgba(97,81,81,0.98824);
+    font-size: 25px;
+    padding: 5px;
+
+  }
+}
+
+#photo1 {
+  background-image: url('./img/1.jpg');
+}
+#photo2 {
+  background-image: url('./img/2.jpg');
+}
+#photo3 {
+  background-image: url('./img/3.jpg');
+}
+#photo4 {
+  background-image: url('./img/4.jpg');
+}
+
+@media (max-width: 740px) {
+  .info{
+    .section-info-header {
+      flex-direction: column;
+    }
+    .section-info-wrap {
+      grid-template-columns: none;
+      justify-content: center;
+    }
+  }
+}

@@ -1,10 +1,30 @@
+import Header from '../Header';
+import NavBar from '../NavBar';
+import Home from '../Home';
+import Footer from '../Footer';
+import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
 
-const App = () => {
+export default function App() {
   return (
-    <>
-      <h2> Hi, React!</h2>
-    </>
-  );
-};
+    <Router>
+      <Header />
+      <NavBar />
 
-export default App;
+      <Switch>
+        <Route path="/contact">
+          <div>contact</div>
+        </Route>
+        <Route path="/blog">
+          <div>blog</div>
+        </Route>
+        <Route path="/gallery">
+          <div>Gallery</div>
+        </Route>
+        <Route path="/">
+          <Home />
+        </Route>
+      </Switch>
+      <Footer />
+    </Router>
+  );
+}

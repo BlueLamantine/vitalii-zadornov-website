@@ -1,0 +1,68 @@
+.header {
+  margin: 7px 0;
+  display: flex;
+  justify-content: space-between;
+  padding: 10px 40px;
+  .title {
+    font-size: 35px;
+
+    .main-title {
+      font-family: 'Cormorant Infant', serif;
+      .cap-let {
+        font-family: 'Pacifico', cursive;
+        font-weight: 400;
+      }
+    }
+
+    .sub-title {
+      font-size: 16px;
+      color: #a7a7a7;
+      font-weight: 600;
+    }
+  }
+
+  .fa-phone {
+    font-size: 15px;
+    line-height: 25px;
+    color: #000000;
+    opacity: 0.5;
+    margin-right: 15px;
+  }
+  .phone-block {
+    display: flex;
+    flex-direction: inherit;
+    align-items: center;
+    .phone {
+      display: flex;
+      flex-direction: column;
+      a {
+        padding: 5px;
+        font-size: 18px;
+        font-family: "Playfair Display", serif;
+        font-weight: 400;
+      }
+    }
+  }
+}
+
+@media all and (min-width: 1400px) and (max-width: 1920px) {
+  .res-padd-lr90 {
+    padding: 0 90px;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .header {
+    flex-direction: column;
+    .main-title {
+      font-size: 50px;
+      line-height: 40px;
+    }
+    .phone-block {
+      flex-direction: row;
+      margin-top: 10px;
+    }
+  }
+}
+@media (max-width: 380px) {
+}

@@ -1,0 +1,24 @@
+svg {
+  width: 32px;
+  height: 32px;
+  color: #462517;
+}
+.social {
+    padding: 30px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  .social-text {
+    color: #311b10;
+    font-size: 25px;
+    letter-spacing: 2px;
+    font-weight: 700;
+  }
+  .social-links{
+    display: flex;
+      .social-link{
+          padding: 0px 20px;
+      }
+  }
+}
