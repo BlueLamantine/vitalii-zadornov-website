@@ -2,6 +2,7 @@ import Header from '../Header';
 import NavBar from '../NavBar';
 import Home from '../Home';
 import Footer from '../Footer';
+import Gallery from '../Gallery';
 import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
 
 export default function App() {
@@ -18,7 +19,7 @@ export default function App() {
           <div>blog</div>
         </Route>
         <Route path="/gallery">
-          <div>Gallery</div>
+          <Gallery/>
         </Route>
         <Route path="/">
           <Home />
