@@ -1,0 +1,200 @@
+/*!**********************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js!./node_modules/postcss-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!./src/components/Header/Header.scss ***!
+  \**********************************************************************************************************************************************************************/
+.header {
+  margin: 7px 0;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+}
+.header .title {
+  font-size: 35px;
+}
+.header .title .main-title {
+  font-family: "Cormorant Infant", serif;
+}
+.header .title .main-title .cap-let {
+  font-family: "Pacifico", cursive;
+  font-weight: 400;
+}
+.header .title .sub-title {
+  font-size: 16px;
+  color: #a7a7a7;
+  font-weight: 600;
+}
+.header .fa-phone {
+  font-size: 15px;
+  line-height: 25px;
+  color: #000000;
+  opacity: 0.5;
+  margin-right: 15px;
+}
+.header .phone-block {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: inherit;
+  -webkit-box-direction: inherit;
+      -ms-flex-direction: inherit;
+          flex-direction: inherit;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+.header .phone-block .phone {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+}
+.header .phone-block .phone a {
+  padding: 5px;
+  font-size: 18px;
+  font-weight: 600;
+}
+
+@media all and (min-width: 1400px) and (max-width: 1920px) {
+  .res-padd-lr90 {
+    padding: 0 90px;
+  }
+}
+@media (max-width: 600px) {
+  .header {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+  }
+  .header .main-title {
+    font-size: 50px;
+    line-height: 40px;
+  }
+  .header .phone-block {
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: row;
+            flex-direction: row;
+    margin-top: 10px;
+  }
+}
+/*!**********************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js!./node_modules/postcss-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!./src/components/NavBar/NavBar.scss ***!
+  \**********************************************************************************************************************************************************************/
+.menu {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+.navbar-default {
+  padding: 0;
+  border-bottom: 15px solid #000;
+  -o-border-image: url(images/7d4077c1e9f1049f6fde.png);
+     border-image: url(images/7d4077c1e9f1049f6fde.png);
+  border-image-repeat: stretch;
+  border-image-slice: 300;
+  font-weight: 600;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+.navbar-default .navbar {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  padding: 5px;
+  margin: 5px;
+}
+.navbar-default .navbar .nav-item {
+  margin: 10px;
+  padding: 10px;
+  font-size: 15px;
+}
+.navbar-default .navbar .nav-item a {
+  color: #a0a0a0;
+}
+.navbar-default .navbar .nav-item a:hover {
+  color: #170707;
+  opacity: 1;
+}
+/*!**********************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js!./node_modules/postcss-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!./src/styles/index.scss ***!
+  \**********************************************************************************************************************************************************/
+body {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 400;
+  line-height: 100%;
+  font-size: 14px;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Montserrat", sans-serif;
+  margin-bottom: 10px;
+}
+
+h1 {
+  font-size: 40px;
+}
+
+h2 {
+  font-size: 36px;
+}
+
+h3 {
+  font-size: 30px;
+}
+
+h4 {
+  font-size: 24px;
+}
+
+h5 {
+  font-size: 20px;
+}
+
+h6 {
+  font-size: 16px;
+}
+
+p {
+  line-height: 26px;
+  color: rgba(0, 0, 0, 0.6);
+}
+
+a {
+  color: #000000;
+  word-break: break-word;
+  display: inline-block;
+  -webkit-transition: all 0.3s ease-in-out;
+  transition: all 0.3s ease-in-out;
+  outline: none;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #000000;
+  opacity: 0.6;
+}
+
+li {
+  list-style-type: none;
+}
+
+/*# sourceMappingURL=main.css.map*/
