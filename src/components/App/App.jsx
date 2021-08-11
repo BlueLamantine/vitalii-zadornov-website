@@ -3,6 +3,7 @@ import NavBar from '../NavBar';
 import Home from '../Home';
 import Footer from '../Footer';
 import Gallery from '../Gallery';
+import Contact from '../Contact';
 import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
 
 export default function App() {
@@ -13,10 +14,7 @@ export default function App() {
 
       <Switch>
         <Route path="/contact">
-          <div>contact</div>
-        </Route>
-        <Route path="/blog">
-          <div>blog</div>
+          <Contact/>
         </Route>
         <Route path="/gallery">
           <Gallery/>

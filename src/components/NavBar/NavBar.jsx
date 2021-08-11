@@ -35,17 +35,6 @@ const Menu = () => {
           <li className="nav-item">
           <NavLink
               exact
-              to="/blog"
-              className="nav-link"
-              activeClassName="nav-link-active"
-              onClick={handleCloseMenu}
-            >
-              Блог
-            </NavLink>
-          </li>
-          <li className="nav-item">
-          <NavLink
-              exact
               to="contact"
               className="nav-link"
               activeClassName="nav-link-active"

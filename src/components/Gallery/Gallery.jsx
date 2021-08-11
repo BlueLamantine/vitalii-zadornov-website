@@ -51,7 +51,8 @@ const Gallery = () => {
          <img src={tmpSrcImg} alt="photo" />
          <i className='fa fa-times' onClick={()=> setModal(false)}></i>
       </div>
-    <div className="gallery">
+      <div className="gallery-wrap">
+      <div className="gallery">
       {dataImg.map((item, index) => {
         return (
           <div className="imgs" key={index} onClick={() => getImg(item.src)}>
@@ -60,6 +61,8 @@ const Gallery = () => {
         );
       })}
     </div>
+      </div>
+    
     </>
   );
 };
