@@ -85,7 +85,7 @@ const Contact = () => {
               ></path>
             </svg>
           </div>
-          <div className="contact-text">org.kiev@ukr.net</div>
+          <div className="contact-text">org.kiev@i.ua</div>
         </div>
 
         

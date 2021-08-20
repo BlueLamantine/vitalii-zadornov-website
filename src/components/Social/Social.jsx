@@ -6,7 +6,7 @@ const Social = () => {
         <p className="social-text">Я в соцсетях</p>
         <div className="social-links">
           <div className="social-link">
-            <a href="#">
+            <a href="https://www.facebook.com/groups/vz.banket" target="_blank">
               <svg
                 aria-hidden="true"
                 focusable="false"
@@ -44,7 +44,7 @@ const Social = () => {
             </a>
           </div>
           <div className="social-link">
-            <a href="#">
+            <a href="https://kiev.wedpro.com.ua/mc/1682701/" target="_blank">
               <svg
                 viewBox="0 0 100 100"
                 version="1.1"

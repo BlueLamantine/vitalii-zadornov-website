@@ -19,16 +19,16 @@ const Carousel = () => {
           <div id="slide1" className="slide-wrap">
             <div className="slide-layer">
               <div className="slide-text">
-                Тут какой-то текст про организацию мероприятий
+                Необходим ведущий на празник ? Звоните!
               </div>
             </div>
           </div>
         </div>
         <div>
           <div id="slide2" className="slide-wrap">
-            <div className="slide-layer">
+            <div className="slide-layer no-filter">
               <div className="slide-text">
-                Тут какой-то текст про организацию мероприятий
+                Хотите организованый праздник? Звоните!
               </div>
             </div>
           </div>
@@ -37,7 +37,7 @@ const Carousel = () => {
           <div id="slide3" className="slide-wrap">
             <div className="slide-layer">
               <div className="slide-text">
-                Тут какой-то текст про организацию мероприятий
+                Музыкальное сопровождение для Вашего праздника
               </div>
             </div>
           </div>

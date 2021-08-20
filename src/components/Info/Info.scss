@@ -2,6 +2,7 @@
   padding: 70px 100px 20px 100px;
   display: flex;
   flex-direction: column;
+  align-items: center;
   .section-info-header {
     display: flex;
     font-size: 17px;
@@ -41,11 +42,16 @@
   }
   .section-info-wrap {
     display: grid;
-    grid-template-columns: repeat(2, 50%);
-    gap: 20px;
+    grid-template-columns: repeat(2, 400px);
+    gap: 50px;
     margin-bottom: 30px;
+    justify-items: center;
+    justify-self: center;
     .service-info {
       padding: 10px;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
       .info-title {
         font-family: 'Playfair Display', serif;
         font-size: 27px;
@@ -65,8 +71,8 @@
         margin-top: 20px;
       }
       .event-photo {
-        width: 238px;
-        height: 152px;
+        width: 400px;
+        height: 200px;
         background-position: center;
         background-repeat: no-repeat;
         background-size: cover;
@@ -76,7 +82,6 @@
       p{
         font-weight: 600;
         color: rgb(0 0 0 / 81%);
-        text-align: justify;
         padding: 10px 10px;
         margin-bottom: 40px;
       }
@@ -88,25 +93,40 @@
     color: rgba(97,81,81,0.98824);
     font-size: 25px;
     padding: 5px;
+    width: 80%;
+    line-height: 30px;
 
   }
 }
 
 #photo1 {
-  background-image: url('./img/1.jpg');
+  background-image: url('./assets/1.jpg');
 }
 #photo2 {
-  background-image: url('./img/2.jpg');
+  background-image: url('./assets/21.jpg');
 }
 #photo3 {
-  background-image: url('./img/3.jpg');
+  background-image: url('./assets/31.jpg');
 }
 #photo4 {
-  background-image: url('./img/4.jpg');
+  background-image: url('./assets/41.jpg');
 }
 
+
+@media (max-width: 895px) {
+  
+.info .section-info-wrap .service-info .event-photo {
+  width: 300px;
+  height: 180px;
+}
+.info .section-info-wrap{
+  gap: 30px;
+}
+}
 @media (max-width: 740px) {
   .info{
+    padding-right: 70px;
+    padding-left: 70px;
     .section-info-header {
       flex-direction: column;
     }
@@ -114,5 +134,16 @@
       grid-template-columns: none;
       justify-content: center;
     }
+    .info-price{
+      width: 100%;
+      padding: 0;
+      
+    }
+  }
+}
+@media (max-width: 320px) {
+  .info .section-info-wrap .service-info .event-photo {
+    width: 200px;
+    height: 120px;
   }
 }
