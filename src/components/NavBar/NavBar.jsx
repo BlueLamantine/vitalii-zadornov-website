@@ -35,7 +35,7 @@ const Menu = () => {
           <li className="nav-item">
           <NavLink
               exact
-              to="contact"
+              to="/contact"
               className="nav-link"
               activeClassName="nav-link-active"
               onClick={handleCloseMenu}

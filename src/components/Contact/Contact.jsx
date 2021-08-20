@@ -46,7 +46,6 @@ const Contact = () => {
         </div>
       </div>
       <div className="contact-wrap">
-       
         <div className="contact-info">
           <div className="icon-icon">
             <svg
@@ -65,7 +64,11 @@ const Contact = () => {
               ></path>
             </svg>
           </div>
-          <div className="contact-text">группа в facebook</div>
+          <div className="contact-text">
+            <a href="https://www.facebook.com/groups/vz.banket" target="_blank">
+              группа в facebook
+            </a>
+          </div>
         </div>
         <div className="contact-info">
           <div className="icon-icon">
@@ -85,10 +88,10 @@ const Contact = () => {
               ></path>
             </svg>
           </div>
-          <div className="contact-text">org.kiev@i.ua</div>
+          <div className="contact-text">
+            <a href="mailto:org.kiev@i.ua">org.kiev@i.ua</a>
+          </div>
         </div>
-
-        
       </div>
     </section>
   );
