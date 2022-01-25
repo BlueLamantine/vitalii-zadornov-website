@@ -33,12 +33,34 @@ var About = function About() {
             className: "cap-let",
             children: "H"
           }), "\u0435\u043C\u043D\u043E\u0433\u043E \u043E \u0441\u0435\u0431\u0435"]
+        }), /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_2__.jsxs)("p", {
+          children: ["\u041F\u0440\u0438\u0432\u0435\u0442\u0441\u0442\u0432\u0443\u044E, ", /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_2__.jsx)("strong", {
+            children: "\u044F - \u0432\u0435\u0434\u0443\u0449\u0438\u0439 (\u0442\u0430\u043C\u0430\u0434\u0430) \u0412\u0438\u0442\u0430\u043B\u0438\u0439 \u0417\u0430\u0434\u043E\u0440\u043D\u043E\u0432 "
+          }), "! \u041C\u043D\u043E\u0433\u043E \u043B\u0435\u0442 \u0437\u0430\u043D\u0438\u043C\u0430\u044E\u0441\u044C \u043E\u0440\u0433\u0430\u043D\u0438\u0437\u0430\u0446\u0438\u0435\u0439 \u0438 \u043F\u0440\u043E\u0432\u0435\u0434\u0435\u043D\u0438\u0435\u043C, \u043C\u0443\u0437\u044B\u043A\u0430\u043B\u044C\u043D\u044B\u043C \u043E\u0444\u043E\u0440\u043C\u043B\u0435\u043D\u0438\u0435\u043C \u043F\u0440\u0430\u0437\u0434\u043D\u0438\u0447\u043D\u044B\u0445 \u043C\u0435\u0440\u043E\u043F\u0440\u0438\u044F\u0442\u0438\u0439."]
         }), /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_2__.jsx)("p", {
-          children: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis facilis eius recusandae, optio ut perferendis praesentium cupiditate placeat eum nesciunt cum quis est, nemo assumenda, corporis deleniti inventore possimus temporibus?"
+          children: "\u0420\u043E\u043B\u044C \u0442\u0430\u043C\u0430\u0434\u044B \u043D\u0430 \u043F\u0440\u0430\u0437\u0434\u043D\u0438\u043A\u0435 \u043E\u0447\u0435\u043D\u044C \u0432\u0430\u0436\u043D\u0430 - \u043D\u0430 \u044D\u0442\u0443 \u0440\u043E\u043B\u044C \u0432\u043F\u043E\u043B\u043D\u0435 \u043C\u043E\u0436\u0435\u0442 \u043F\u043E\u0434\u043E\u0439\u0442\u0438 \u043A\u0442\u043E-\u0442\u043E \u0438\u0437 \u0434\u0440\u0443\u0437\u0435\u0439, \u0440\u043E\u0434\u0441\u0442\u0432\u0435\u043D\u043D\u0438\u043A\u043E\u0432 \u0438\u043B\u0438 \u043A\u043E\u043B\u043B\u0435\u0433. \u041D\u041E \u043D\u0435\u0437\u0430\u0432\u0438\u0441\u0438\u043C\u043E \u043E\u0442 \u0432\u0430\u0448\u0435\u0433\u043E \u0432\u044B\u0431\u043E\u0440\u0430 \u044D\u0442\u043E\u043C\u0443 \u0447\u0435\u043B\u043E\u0432\u0435\u043A\u0443 \u043D\u0435\u043E\u0431\u0445\u043E\u0434\u0438\u043C\u043E \u0431\u044B\u0442\u044C \u043E\u0441\u0442\u0440\u043E\u0443\u043C\u043D\u044B\u043C \u0438 \u0430\u0440\u0442\u0438\u0441\u0442\u0438\u0447\u043D\u044B\u043C, \u0441 \u0447\u0435\u0442\u043A\u043E\u0439 \u0434\u0438\u043A\u0446\u0438\u0435\u0439 \u0438 \u0433\u043E\u0440\u043E\u043C\u043A\u0438\u043C \u0433\u043E\u043B\u043E\u0441\u043E\u043C. \u0418\u043C\u043F\u0440\u043E\u0432\u0438\u0437\u0430\u0446\u0438\u044F \u0438 \u0445\u043E\u0440\u043E\u0448\u0430\u044F \u043F\u0430\u043C\u044F\u0442\u044C \u0442\u0430\u043A\u0436\u0435 \u044F\u0432\u043B\u044F\u044E\u0442\u0441\u044F \u043D\u0435\u043E\u0431\u0445\u043E\u0434\u0438\u043C\u044B\u043C\u0438 \u043A\u0430\u0447\u0435\u0441\u0442\u0432\u0430\u043C\u0438 \u0432\u0435\u0434\u0443\u0449\u0435\u0433\u043E."
         }), /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_2__.jsx)("p", {
-          children: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis facilis eius recusandae, optio ut perferendis praesentium cupiditate"
+          children: "\u041C\u043E\u0435 \u043C\u043D\u0435\u043D\u0438\u0435 \u043A\u0430\u043A\u0438\u043C \u0434\u043E\u043B\u0436\u0435\u043D \u0431\u044B\u0442\u044C \u0432\u0435\u0434\u0443\u0449\u0438\u0439 :"
+        }), /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_2__.jsxs)("ul", {
+          className: "about-list",
+          children: [/*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_2__.jsx)("li", {
+            className: "list-item",
+            children: "\u0421\u0430\u0431\u043B\u044E\u0434\u0430\u0442\u044C \u0434\u0438\u0441\u0442\u0430\u043D\u0446\u0438\u044E \u0438 \u043D\u0435 \u0434\u043E\u043F\u0443\u0441\u043A\u0430\u0442\u044C \u043F\u0430\u043D\u0438\u0431\u0440\u0430\u0442\u0441\u0442\u0432\u0430"
+          }), /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_2__.jsx)("li", {
+            className: "list-item",
+            children: "\u041F\u0440\u0435\u0434\u043E\u0441\u0442\u0430\u0432\u043B\u044F\u0442\u044C \u0441\u043B\u043E\u0432\u043E \u0432\u0441\u0435\u043C \u0436\u0435\u043B\u0430\u044E\u0449\u0438\u043C, \u0435\u0441\u043B\u0438 \u0438\u043C \u0435\u0441\u0442\u044C \u0447\u0442\u043E \u0441\u043A\u0430\u0437\u0430\u0442\u044C"
+          }), /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_2__.jsx)("li", {
+            className: "list-item",
+            children: "\u041E\u0431\u043B\u0430\u0434\u0430\u0442\u044C \u0433\u0440\u0430\u043C\u043E\u0442\u043D\u043E\u0439 \u0440\u0435\u0447\u044C\u044E"
+          }), /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_2__.jsx)("li", {
+            className: "list-item",
+            children: "\u041D\u0435 \u0433\u043E\u0432\u043E\u0440\u0438\u0442\u044C \u0441\u043B\u0438\u0448\u043A\u043E\u043C \u0447\u0430\u0441\u0442\u043E \u0438 \u0447\u0435\u0440\u0435\u0441\u0447\u0443\u0440 \u0434\u043E\u043B\u0433\u043E"
+          }), /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_2__.jsx)("li", {
+            className: "list-item",
+            children: "\u041D\u0435 \u0443\u043F\u043E\u0442\u0440\u0435\u0431\u043B\u044F\u0442\u044C \u043D\u0435\u0446\u0435\u043D\u0437\u0443\u0440\u043D\u044B\u0435 \u0432\u044B\u0440\u0430\u0436\u0435\u043D\u0438\u044F \u0438 \u043D\u0435\u043D\u043E\u0440\u043C\u0430\u0442\u0438\u0432\u043D\u0443\u044E \u043B\u0435\u043A\u0441\u0438\u043A\u0443"
+          })]
         }), /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_2__.jsx)("p", {
-          children: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis facilis eius recusandae, optio ut perferendis praesentium cupiditate placeat eum nesciunt"
+          children: "\u0421\u043E\u0433\u043B\u0430\u0441\u043D\u044B \u0441 \u0432\u044B\u0448\u0435\u043F\u0435\u0440\u0435\u0447\u0438\u0441\u043B\u0435\u043D\u043D\u044B\u043C ? \u042F - \u0442\u043E\u0442 \u0432\u0435\u0434\u0443\u0449\u0438\u0439 \u043A\u043E\u0442\u043E\u0440\u044B\u0439 \u043F\u0440\u043E\u0432\u0435\u0434\u0435\u0442 \u0432\u0430\u0448\u0435 \u043C\u0435\u0440\u043E\u043F\u0440\u0438\u044F\u0442\u0438\u0435 \u043D\u0430 \u0432\u044B\u0441\u0448\u0435\u043C \u0443\u0440\u043E\u0432\u043D\u0435. \u0417\u0432\u043E\u043D\u0438\u0442\u0435!"
         })]
       }), /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_2__.jsx)("div", {
         className: "about-photo",
@@ -185,7 +207,7 @@ var Carousel = function Carousel() {
             className: "slide-layer",
             children: /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_4__.jsx)("div", {
               className: "slide-text",
-              children: "\u0422\u0443\u0442 \u043A\u0430\u043A\u043E\u0439-\u0442\u043E \u0442\u0435\u043A\u0441\u0442 \u043F\u0440\u043E \u043E\u0440\u0433\u0430\u043D\u0438\u0437\u0430\u0446\u0438\u044E \u043C\u0435\u0440\u043E\u043F\u0440\u0438\u044F\u0442\u0438\u0439"
+              children: "\u041D\u0435\u043E\u0431\u0445\u043E\u0434\u0438\u043C \u0432\u0435\u0434\u0443\u0449\u0438\u0439 \u043D\u0430 \u043F\u0440\u0430\u0437\u043D\u0438\u043A ? \u0417\u0432\u043E\u043D\u0438\u0442\u0435!"
             })
           })
         })
@@ -194,10 +216,10 @@ var Carousel = function Carousel() {
           id: "slide2",
           className: "slide-wrap",
           children: /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_4__.jsx)("div", {
-            className: "slide-layer",
+            className: "slide-layer no-filter",
             children: /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_4__.jsx)("div", {
               className: "slide-text",
-              children: "\u0422\u0443\u0442 \u043A\u0430\u043A\u043E\u0439-\u0442\u043E \u0442\u0435\u043A\u0441\u0442 \u043F\u0440\u043E \u043E\u0440\u0433\u0430\u043D\u0438\u0437\u0430\u0446\u0438\u044E \u043C\u0435\u0440\u043E\u043F\u0440\u0438\u044F\u0442\u0438\u0439"
+              children: "\u0425\u043E\u0442\u0438\u0442\u0435 \u043E\u0440\u0433\u0430\u043D\u0438\u0437\u043E\u0432\u0430\u043D\u044B\u0439 \u043F\u0440\u0430\u0437\u0434\u043D\u0438\u043A? \u0417\u0432\u043E\u043D\u0438\u0442\u0435!"
             })
           })
         })
@@ -209,7 +231,7 @@ var Carousel = function Carousel() {
             className: "slide-layer",
             children: /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_4__.jsx)("div", {
               className: "slide-text",
-              children: "\u0422\u0443\u0442 \u043A\u0430\u043A\u043E\u0439-\u0442\u043E \u0442\u0435\u043A\u0441\u0442 \u043F\u0440\u043E \u043E\u0440\u0433\u0430\u043D\u0438\u0437\u0430\u0446\u0438\u044E \u043C\u0435\u0440\u043E\u043F\u0440\u0438\u044F\u0442\u0438\u0439"
+              children: "\u041C\u0443\u0437\u044B\u043A\u0430\u043B\u044C\u043D\u043E\u0435 \u0441\u043E\u043F\u0440\u043E\u0432\u043E\u0436\u0434\u0435\u043D\u0438\u0435 \u0434\u043B\u044F \u0412\u0430\u0448\u0435\u0433\u043E \u043F\u0440\u0430\u0437\u0434\u043D\u0438\u043A\u0430"
             })
           })
         })
@@ -327,7 +349,11 @@ var Contact = function Contact() {
           })
         }), /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)("div", {
           className: "contact-text",
-          children: "\u0433\u0440\u0443\u043F\u043F\u0430 \u0432 facebook"
+          children: /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)("a", {
+            href: "https://www.facebook.com/groups/vz.banket",
+            target: "_blank",
+            children: "\u0433\u0440\u0443\u043F\u043F\u0430 \u0432 facebook"
+          })
         })]
       }), /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)("div", {
         className: "contact-info",
@@ -349,7 +375,10 @@ var Contact = function Contact() {
           })
         }), /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)("div", {
           className: "contact-text",
-          children: "org.kiev@ukr.net"
+          children: /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)("a", {
+            href: "mailto:org.kiev@i.ua",
+            children: "org.kiev@i.ua"
+          })
         })]
       })]
     })]
@@ -415,10 +444,10 @@ var Footer = function Footer() {
         className: "phone",
         children: [/*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)("a", {
           href: "tel:+380930000000",
-          children: "+38 (093) 0000000"
+          children: "+38 (066) 5190590"
         }), /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)("a", {
           href: "tel:+380930000000",
-          children: "+38 (093) 0000000"
+          children: "+38 (097) 4344269"
         })]
       })]
     }), /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)("div", {
@@ -459,34 +488,12 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
 /* harmony export */ });
-/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
-/* harmony import */ var _Gallery_scss__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./Gallery.scss */ "./src/components/Gallery/Gallery.scss");
-/* harmony import */ var _assets_1_jpg__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./assets/1.jpg */ "./src/components/Gallery/assets/1.jpg");
-/* harmony import */ var _assets_2_jpg__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./assets/2.jpg */ "./src/components/Gallery/assets/2.jpg");
-/* harmony import */ var _assets_3_jpg__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./assets/3.jpg */ "./src/components/Gallery/assets/3.jpg");
-/* harmony import */ var _assets_4_jpg__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ./assets/4.jpg */ "./src/components/Gallery/assets/4.jpg");
-/* harmony import */ var _assets_5_jpg__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ./assets/5.jpg */ "./src/components/Gallery/assets/5.jpg");
-/* harmony import */ var _assets_6_jpg__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! ./assets/6.jpg */ "./src/components/Gallery/assets/6.jpg");
-/* harmony import */ var _assets_7_jpg__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! ./assets/7.jpg */ "./src/components/Gallery/assets/7.jpg");
-/* harmony import */ var react_jsx_runtime__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(/*! react/jsx-runtime */ "./node_modules/react/jsx-runtime.js");
-function _slicedToArray(arr, i) { return _arrayWithHoles(arr) || _iterableToArrayLimit(arr, i) || _unsupportedIterableToArray(arr, i) || _nonIterableRest(); }
-
-function _nonIterableRest() { throw new TypeError("Invalid attempt to destructure non-iterable instance.\nIn order to be iterable, non-array objects must have a [Symbol.iterator]() method."); }
-
-function _unsupportedIterableToArray(o, minLen) { if (!o) return; if (typeof o === "string") return _arrayLikeToArray(o, minLen); var n = Object.prototype.toString.call(o).slice(8, -1); if (n === "Object" && o.constructor) n = o.constructor.name; if (n === "Map" || n === "Set") return Array.from(o); if (n === "Arguments" || /^(?:Ui|I)nt(?:8|16|32)(?:Clamped)?Array$/.test(n)) return _arrayLikeToArray(o, minLen); }
-
-function _arrayLikeToArray(arr, len) { if (len == null || len > arr.length) len = arr.length; for (var i = 0, arr2 = new Array(len); i < len; i++) { arr2[i] = arr[i]; } return arr2; }
-
-function _iterableToArrayLimit(arr, i) { var _i = arr == null ? null : typeof Symbol !== "undefined" && arr[Symbol.iterator] || arr["@@iterator"]; if (_i == null) return; var _arr = []; var _n = true; var _d = false; var _s, _e; try { for (_i = _i.call(arr); !(_n = (_s = _i.next()).done); _n = true) { _arr.push(_s.value); if (i && _arr.length === i) break; } } catch (err) { _d = true; _e = err; } finally { try { if (!_n && _i["return"] != null) _i["return"](); } finally { if (_d) throw _e; } } return _arr; }
-
-function _arrayWithHoles(arr) { if (Array.isArray(arr)) return arr; }
-
-
-
-
-
-
-
+/* harmony import */ var react_router_dom__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! react-router-dom */ "./node_modules/react-router/esm/react-router.js");
+/* harmony import */ var react_router_dom__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! react-router-dom */ "./node_modules/react-router-dom/esm/react-router-dom.js");
+/* harmony import */ var _Video__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../Video */ "./src/components/Video/index.jsx");
+/* harmony import */ var _Photo__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../Photo */ "./src/components/Photo/index.jsx");
+/* harmony import */ var _Gallery_scss__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./Gallery.scss */ "./src/components/Gallery/Gallery.scss");
+/* harmony import */ var react_jsx_runtime__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! react/jsx-runtime */ "./node_modules/react/jsx-runtime.js");
 
 
 
@@ -495,75 +502,45 @@ function _arrayWithHoles(arr) { if (Array.isArray(arr)) return arr; }
 
 
 var Gallery = function Gallery() {
-  var dataImg = [{
-    id: 1,
-    src: _assets_1_jpg__WEBPACK_IMPORTED_MODULE_2__
-  }, {
-    id: 2,
-    src: _assets_2_jpg__WEBPACK_IMPORTED_MODULE_3__
-  }, {
-    id: 3,
-    src: _assets_3_jpg__WEBPACK_IMPORTED_MODULE_4__
-  }, {
-    id: 4,
-    src: _assets_4_jpg__WEBPACK_IMPORTED_MODULE_5__
-  }, {
-    id: 5,
-    src: _assets_5_jpg__WEBPACK_IMPORTED_MODULE_6__
-  }, {
-    id: 6,
-    src: _assets_6_jpg__WEBPACK_IMPORTED_MODULE_7__
-  }, {
-    id: 7,
-    src: _assets_7_jpg__WEBPACK_IMPORTED_MODULE_8__
-  }];
+  var _useRouteMatch = (0,react_router_dom__WEBPACK_IMPORTED_MODULE_4__.useRouteMatch)(),
+      path = _useRouteMatch.path,
+      url = _useRouteMatch.url;
 
-  var _useState = (0,react__WEBPACK_IMPORTED_MODULE_0__.useState)(false),
-      _useState2 = _slicedToArray(_useState, 2),
-      modal = _useState2[0],
-      setModal = _useState2[1];
-
-  var _useState3 = (0,react__WEBPACK_IMPORTED_MODULE_0__.useState)(''),
-      _useState4 = _slicedToArray(_useState3, 2),
-      tmpSrcImg = _useState4[0],
-      setTmpSrcImg = _useState4[1];
-
-  var getImg = function getImg(src) {
-    setTmpSrcImg(src);
-    setModal(true);
-  };
-
-  return /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_9__.jsxs)(react_jsx_runtime__WEBPACK_IMPORTED_MODULE_9__.Fragment, {
-    children: [/*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_9__.jsxs)("div", {
-      className: modal ? "modal open" : "modal",
-      children: [/*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_9__.jsx)("img", {
-        src: tmpSrcImg,
-        alt: "photo"
-      }), /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_9__.jsx)("i", {
-        className: "fa fa-times",
-        onClick: function onClick() {
-          return setModal(false);
-        }
-      })]
-    }), /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_9__.jsx)("div", {
-      className: "gallery-wrap",
-      children: /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_9__.jsx)("div", {
-        className: "gallery",
-        children: dataImg.map(function (item, index) {
-          return /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_9__.jsx)("div", {
-            className: "imgs",
-            onClick: function onClick() {
-              return getImg(item.src);
-            },
-            children: /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_9__.jsx)("img", {
-              src: item.src,
-              alt: "photo",
-              style: {
-                width: '100%'
-              }
-            })
-          }, index);
-        })
+  return /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_3__.jsxs)("div", {
+    className: "gallery-content",
+    children: [/*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_3__.jsx)("nav", {
+      className: "gallery-navbar navbar-default",
+      children: /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_3__.jsxs)("ul", {
+        className: "gallery-menu",
+        children: [/*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_3__.jsx)("li", {
+          className: "nav-item",
+          children: /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_3__.jsx)(react_router_dom__WEBPACK_IMPORTED_MODULE_5__.NavLink, {
+            exact: true,
+            to: "".concat(url),
+            className: "nav-link",
+            activeClassName: "nav-link-active",
+            children: "\u0424\u043E\u0442\u043E"
+          })
+        }), /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_3__.jsx)("li", {
+          className: "nav-item",
+          children: /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_3__.jsx)(react_router_dom__WEBPACK_IMPORTED_MODULE_5__.NavLink, {
+            exact: true,
+            to: "".concat(url, "/video"),
+            className: "nav-link",
+            activeClassName: "nav-link-active",
+            children: "\u0412\u0438\u0434\u0435\u043E"
+          })
+        })]
+      })
+    }), /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_3__.jsx)("div", {
+      children: /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_3__.jsxs)(react_router_dom__WEBPACK_IMPORTED_MODULE_4__.Switch, {
+        children: [/*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_3__.jsx)(react_router_dom__WEBPACK_IMPORTED_MODULE_4__.Route, {
+          path: "".concat(path, "/:video"),
+          children: /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_3__.jsx)(_Video__WEBPACK_IMPORTED_MODULE_0__.default, {})
+        }), /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_3__.jsx)(react_router_dom__WEBPACK_IMPORTED_MODULE_4__.Route, {
+          path: "".concat(path),
+          children: /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_3__.jsx)(_Photo__WEBPACK_IMPORTED_MODULE_1__.default, {})
+        })]
       })
     })]
   });
@@ -619,7 +596,7 @@ var Header = function Header() {
         }), "\u0438\u0442\u0430\u043B\u0438\u0439 \u0417\u0430\u0434\u043E\u0440\u043D\u043E\u0432"]
       }), /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)("h4", {
         className: "sub-title",
-        children: "\u043E\u0440\u0433\u0430\u043D\u0438\u0437\u0430\u0446\u0438\u044F \u043C\u0435\u0440\u043E\u043F\u0440\u0438\u044F\u0442\u0438\u0439"
+        children: "\u043E\u0440\u0433\u0430\u043D\u0438\u0437\u0430\u0446\u0438\u044F \u0438 \u043C\u0443\u0437\u044B\u043A\u0430\u043B\u044C\u043D\u043E\u0435 \u043E\u0444\u043E\u0440\u043C\u043B\u0435\u043D\u0438\u0435 \u043C\u0435\u0440\u043E\u043F\u0440\u0438\u044F\u0442\u0438\u0439"
       })]
     }), /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)("div", {
       className: "phone-block",
@@ -629,10 +606,10 @@ var Header = function Header() {
         className: "phone",
         children: [/*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)("a", {
           href: "tel:+380930000000",
-          children: "+38 (093) 0000000"
+          children: "+38 (066) 5190590"
         }), /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)("a", {
           href: "tel:+380930000000",
-          children: "+38 (093) 0000000"
+          children: "+38 (097) 4344269"
         })]
       })]
     })]
@@ -756,7 +733,7 @@ var Info = function Info() {
           id: "photo1",
           className: "event-photo"
         }), /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)("p", {
-          children: "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Modi, voluptas voluptatibus! Dignissimos architecto distinctio sapiente"
+          children: "\u0421\u0432\u0430\u0434\u044C\u0431\u0430 - \u0446\u0435\u043B\u044B\u0439 \u0441\u043F\u0435\u043A\u0442\u0430\u043A\u043B\u044C, \u0438\u0432\u0435\u043D\u0442, \u0443\u0441\u043F\u0435\u0445 \u043A\u043E\u0442\u043E\u0440\u043E\u0433\u043E \u043F\u043E \u0437\u0430\u043A\u043E\u043D\u0430\u043C \u0442\u0435\u0430\u0442\u0440\u0430\u043B\u044C\u043D\u044B\u0445 \u043F\u043E\u0441\u0442\u0430\u043D\u043E\u0432\u043E\u043A \u043E\u043F\u0440\u0435\u0434\u0435\u043B\u044F\u0435\u0442\u0441\u044F \u0441\u0442\u0435\u043F\u0435\u043D\u044C\u044E \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0438 \u0441\u0446\u0435\u043D\u0430\u0440\u0438\u044F, \u043C\u0430\u0441\u0442\u0435\u0440\u0441\u0442\u0432\u043E\u043C \u043F\u0435\u0440\u0435\u0432\u043E\u043F\u043B\u043E\u0449\u0435\u043D\u0438\u044F \u043C\u043E\u043B\u043E\u0434\u043E\u0436\u0435\u043D\u043E\u0432 \u0432 \u044D\u0442\u0430\u043B\u043E\u043D \u0432\u043B\u044E\u0431\u043B\u0435\u043D\u043D\u043E\u0441\u0442\u0438, \u043F\u0440\u0435\u0434\u0430\u043D\u043D\u043E\u0441\u0442\u0438 \u0438 \u0432\u0435\u0440\u043D\u043E\u0441\u0442\u0438 \u0434\u0440\u0443\u0433 \u0434\u0440\u0443\u0433\u0443. \u041A\u043E\u043D\u0435\u0447\u043D\u043E, \u043E\u043F\u0440\u0435\u0434\u0435\u043B\u044F\u044E\u0449\u0438\u043C \u043D\u0430 \u0441\u0432\u0430\u0434\u044C\u0431\u0435 \u0431\u0443\u0434\u0435\u0442 \u0432\u0435\u043B\u0438\u043A\u043E\u043B\u0435\u043F\u043D\u043E\u0435 \u043D\u0430\u0441\u0442\u0440\u043E\u0435\u043D\u0438\u0435 \u0432\u0441\u0435 \u043F\u0440\u0438\u0441\u0443\u0442\u0441\u0432\u0443\u044E\u0449\u0438\u0445, \u0447\u0442\u043E \u0432 \u043D\u0435\u043C\u0430\u043B\u043E\u0439 \u0441\u0442\u0435\u043F\u0435\u043D\u0438 \u0437\u0430\u0432\u0438\u0441\u0438\u0442 \u043E\u0442 \u0442\u0430\u043C\u0430\u0434\u044B."
         })]
       }), /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)("article", {
         className: "service-info",
@@ -767,7 +744,7 @@ var Info = function Info() {
           id: "photo2",
           className: "event-photo"
         }), /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)("p", {
-          children: "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Modi, voluptas voluptatibus! Dignissimos architecto distinctio sapiente"
+          children: "\u042D\u0442\u043E \u0441\u0430\u043C\u044B\u0439 \u043B\u044E\u0431\u0438\u043C\u044B\u0439 \u043F\u0440\u0430\u0437\u0434\u043D\u0438\u043A \u043A\u0430\u0436\u0434\u043E\u0433\u043E, \u043E\u043D \u043A\u0430\u043A \u041D\u043E\u0432\u044B\u0439 \u0433\u043E\u0434 - \u0447\u0443\u0434\u0435\u0441\u043D\u044B\u0439, \u0432\u043E\u043B\u043D\u0438\u0442\u0435\u043B\u044C\u043D\u044B\u0439 \u0438 \u043D\u0435\u0437\u0430\u0431\u044B\u0432\u0430\u0435\u043C\u044B\u0439. \u041D\u0430 \u043F\u0440\u0430\u0437\u0434\u043D\u0438\u043A \u043F\u0440\u0438\u0433\u043B\u0430\u0448\u0430\u044E\u0442 \u0431\u043B\u0438\u0437\u043A\u0438\u0445 \u0440\u043E\u0434\u0441\u0432\u0435\u043D\u043D\u0438\u043A\u043E\u0432 \u0438 \u0434\u0440\u0443\u0437\u0435\u0439, \u043F\u0440\u0438\u044F\u0442\u0435\u043B\u0435\u0439 \u0438 \u0437\u043D\u0430\u043A\u043E\u043C\u044B\u0445. \u0418\u043C\u0435\u043D\u0438\u043D\u043D\u0438\u043A \u043F\u0440\u0438\u043D\u0438\u043C\u0430\u0435\u0442 \u043F\u043E\u0434\u0430\u0440\u043A\u0438 \u0438 \u043F\u043E\u0437\u0434\u0440\u0430\u0432\u043B\u0435\u043D\u0438\u044F, \u0440\u0430\u0434\u0443\u0435\u0442\u0441\u044F \u043F\u0440\u0438\u044F\u0442\u043D\u044B\u043C \u0441\u044E\u0440\u043F\u0440\u0438\u0437\u0430\u043C \u0438 \u043D\u0435\u043E\u0436\u0438\u0434\u0430\u043D\u043D\u043E\u0441\u0442\u044F\u043C, \u043A\u043E\u0442\u043E\u0440\u044B\u0435 \u043F\u0440\u0438\u0433\u043E\u0442\u043E\u0432\u0438\u043B\u0438 \u0434\u043B\u044F \u043D\u0435\u0433\u043E \u0433\u043E\u0441\u0442\u0438. \u0421\u0430\u043C\u043E\u0435 \u0433\u043B\u0430\u0432\u043D\u043E\u0435 \u043D\u0430 \u0434\u043D\u0435 \u0440\u043E\u0436\u0434\u0435\u043D\u0438\u044F - \u044D\u0442\u043E \u043F\u0440\u0430\u0437\u0434\u043D\u0438\u0447\u043D\u044B\u0439 \u0442\u043E\u0440\u0442 \u0441\u043E \u0441\u0432\u0435\u0447\u0430\u043C\u0438 \u0438 \u043E\u0442\u0432\u0435\u0442\u0441\u0442\u0432\u0435\u043D\u043D\u044B\u0439 \u0442\u0430\u043C\u0430\u0434\u0430, \u043A\u043E\u0442\u043E\u0440\u044B\u0439 \u0432\u043E\u0437\u044C\u043C\u0435\u0442 \u043D\u0430 \u0441\u0435\u0431\u044F \u0432\u0441\u0435 \u0445\u043B\u043E\u043F\u043E\u0442\u044B \u043E\u0440\u0433\u0430\u043D\u0438\u0437\u0430\u0446\u0438\u0438."
         })]
       }), /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)("article", {
         className: "service-info",
@@ -778,7 +755,7 @@ var Info = function Info() {
           id: "photo3",
           className: "event-photo"
         }), /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)("p", {
-          children: "Dignissimos architecto distinctio sapiente nisi culpa, laboriosam, commodi magnam quisquam dolore tempore reprehenderit blanditiis repellat qui autem! Quasi, adipisci."
+          children: "\u041A\u0430\u043A \u0438\u0437\u0432\u0435\u0441\u0442\u043D\u043E, \u043D\u0443\u0436\u043D\u043E \u043D\u0435 \u0442\u043E\u043B\u044C\u043A\u043E \u0445\u043E\u0440\u043E\u0448\u043E \u0440\u0430\u0431\u043E\u0442\u0430\u0442\u044C, \u043D\u043E \u0438 \u0445\u043E\u0440\u043E\u0448\u043E \u043E\u0442\u0434\u044B\u0445\u0430\u0442\u044C. \u0421\u043E\u0432\u043C\u0435\u0441\u0442\u043D\u0430\u044F \u0432\u0441\u0442\u0440\u0435\u0447\u0430 \u043A\u043E\u043B\u043B\u0435\u0433 \u0441\u043F\u043E\u0441\u043E\u0431\u043D\u0430 \u0441\u0434\u0435\u043B\u0430\u0442\u044C \u0430\u0442\u043C\u043E\u0441\u0444\u0435\u0440\u0443 \u0432 \u0444\u0438\u0440\u043C\u0435 \u0431\u043E\u043B\u0435\u0435 \u0434\u0440\u0443\u0436\u0435\u0441\u0442\u0432\u0435\u043D\u043D\u043E\u0439. \u0421\u0435\u0433\u043E\u0434\u043D\u044F \u043C\u043D\u043E\u0433\u0438\u0435 \u043A\u0430\u0444\u0435 \u0438 \u0440\u0435\u0441\u0442\u043E\u0440\u0430\u043D\u044B \u043F\u0440\u0435\u0434\u043B\u0430\u0433\u0430\u044E\u0442 \u0432\u044B\u0435\u0437\u0434\u043D\u043E\u0435 \u043E\u0431\u0441\u043B\u0443\u0436\u0438\u0432\u0430\u043D\u0438\u0435, \u0438 \u0432 \u043E\u0444\u0438\u0441 \u0434\u043E\u0441\u0442\u0430\u0432\u044F\u0442 \u043B\u044E\u0431\u044B\u0435 \u0432\u044B\u0431\u0440\u0430\u043D\u043D\u044B\u0435 \u0432\u0430\u043C\u0438 \u0444\u0438\u0440\u043C\u0438\u043D\u043D\u044B\u0435 \u0438 \u0442\u0440\u0430\u0434\u0438\u0446\u0438\u043E\u043D\u043D\u044B\u0435 \u0431\u043B\u044E\u0434\u0430. \u0410 \u0437\u043D\u0430\u0447\u0438\u0442, \u043E\u0440\u0433\u0430\u043D\u0438\u0437\u0430\u0432\u0430\u043D\u043D\u0430\u044F \u0442\u0430\u043A\u0438\u043C \u043E\u0431\u0440\u0430\u0437\u043E\u043C \u0432\u0441\u0442\u0440\u0435\u0447\u0430 \u043F\u043E\u0442\u0440\u0435\u0431\u0443\u0435\u0442 \u043E\u0442 \u0441\u043E\u0442\u0440\u0443\u0434\u043D\u0438\u043A\u043E\u0432 \u043C\u0438\u043D\u0438\u043C\u0430\u043B\u044C\u043D\u043E\u0433\u043E \u043D\u0430\u043F\u0440\u044F\u0436\u0435\u043D\u0438\u044F \u0438 \u0441\u0438\u043B. \u0410 \u043F\u0440\u043E\u0432\u0435\u0441\u0442\u0438 \u043F\u0440\u0430\u0437\u0434\u043D\u0438\u043A \u043D\u0430 \u0441\u043E\u043E\u0442\u0432\u0435\u0442\u0441\u0432\u0443\u044E\u0449\u0435\u043C \u0443\u0440\u043E\u0432\u043D\u0435 \u043F\u043E\u043C\u043E\u0436\u0435\u0442 \u0442\u0430\u043C\u0430\u0434\u0430 - \u043F\u0440\u0438\u0433\u043B\u0430\u0448\u043D\u043D\u044B\u0439 \u0444\u0438\u0440\u043C\u043E\u0439."
         })]
       }), /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)("article", {
         className: "service-info",
@@ -789,12 +766,12 @@ var Info = function Info() {
           id: "photo4",
           className: "event-photo"
         }), /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)("p", {
-          children: "Adxde laboriosam, commodi magnam quisquam dolore tempore reprehenderit blanditiis repellat qui autem! Quasi, adipisci."
+          children: "\u0421\u0430\u043C\u044B\u0439 \u0442\u0435\u043F\u043B\u044B\u0439 \u0438 \u043A\u0440\u0430\u0441\u0438\u0432\u044B\u0439 \u043F\u0440\u0430\u0437\u0434\u043D\u0438\u043A \u0434\u043B\u044F \u0445\u0440\u0438\u0441\u0442\u0438\u0430\u043D \u0432\u0441\u0435\u0433\u043E \u043C\u0438\u0440\u0430. \u041F\u0440\u0430\u0437\u0434\u043D\u043E\u0432\u0430\u043D\u0438\u0435 \u043A\u0440\u0435\u0441\u0442\u0438\u043D \u043F\u0440\u043E\u0432\u043E\u0434\u044F\u0442 \u0432 \u0441\u0435\u043C\u0435\u0439\u043D\u043E\u043C \u043A\u0440\u0443\u0433\u0443, \u0430 \u043F\u0440\u0430\u0437\u0434\u043D\u0438\u0447\u043D\u043E\u0435 \u043C\u0435\u043D\u044E \u0432\u0441\u0435\u0433\u0434\u0430 \u043E\u0431\u0438\u043B\u044C\u043D\u043E \u0438 \u0440\u0430\u0437\u043D\u043E\u043E\u0431\u0440\u0430\u0437\u043D\u043E. \u0412\u0435\u0434\u0443\u0449\u0438\u0439 \u0442\u0430\u043A\u0436\u0435 \u0441\u0443\u0449\u0435\u0441\u0442\u0432\u0435\u043D\u043D\u043E \u0432\u0430\u0436\u0435\u043D \u0434\u043B\u044F \u043E\u0440\u0433\u0430\u043D\u0438\u0437\u0430\u0446\u0438\u0438 \u0442\u0430\u043A\u043E\u0433\u043E \u0441\u0432\u0435\u0442\u043B\u043E\u0433\u043E \u0441\u043E\u0431\u044B\u0442\u0438\u044F."
         })]
       })]
     }), /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)("p", {
       className: "info-price",
-      children: "\u0426\u0435\u043D\u044B \u043E\u0442 200\u20B4 \u0432 \u0447\u0430\u0441!"
+      children: "\u0426\u0435\u043D\u0430 \u043E\u0440\u0433\u0430\u043D\u0438\u0437\u0430\u0446\u0438\u0438 \u0438 \u043F\u0440\u043E\u0432\u0435\u0434\u0435\u043D\u0438\u044F \u043C\u0435\u0440\u043E\u043F\u0440\u0438\u044F\u0442\u0438\u044F \u0440\u0430\u0441\u0441\u0447\u0438\u0442\u044B\u0432\u0430\u0435\u0442\u0441\u044F \u0438\u043D\u0434\u0438\u0432\u0438\u0434\u0443\u0430\u043B\u044C\u043D\u043E \u0432 \u0437\u0430\u0432\u0438\u0441\u0438\u043C\u043E\u0441\u0442\u0438 \u043E\u0442 \u0412\u0430\u0448\u0438\u0445 \u043F\u043E\u0436\u0435\u043B\u0430\u043D\u0438\u0439, \u0430 \u0432 \u0441\u0440\u0435\u0434\u043D\u0435\u043C \u0441\u043E\u0441\u0442\u0430\u0432\u043B\u044F\u0435\u0442 \u043E\u0442 1000\u20B4 \u0432 \u0447\u0430\u0441"
     })]
   });
 };
@@ -892,7 +869,7 @@ var Menu = function Menu() {
           className: "nav-item",
           children: /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_2__.jsx)(react_router_dom__WEBPACK_IMPORTED_MODULE_3__.NavLink, {
             exact: true,
-            to: "contact",
+            to: "/contact",
             className: "nav-link",
             activeClassName: "nav-link-active",
             onClick: handleCloseMenu,
@@ -926,6 +903,147 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */   "default": () => (/* reexport safe */ _NavBar__WEBPACK_IMPORTED_MODULE_0__.default)
 /* harmony export */ });
 /* harmony import */ var _NavBar__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./NavBar */ "./src/components/NavBar/NavBar.jsx");
+
+
+/***/ }),
+
+/***/ "./src/components/Photo/Photo.jsx":
+/*!****************************************!*\
+  !*** ./src/components/Photo/Photo.jsx ***!
+  \****************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
+/* harmony import */ var _Photo_scss__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./Photo.scss */ "./src/components/Photo/Photo.scss");
+/* harmony import */ var _assets_1_jpg__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./assets/1.jpg */ "./src/components/Photo/assets/1.jpg");
+/* harmony import */ var _assets_2_jpg__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./assets/2.jpg */ "./src/components/Photo/assets/2.jpg");
+/* harmony import */ var _assets_3_jpg__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./assets/3.jpg */ "./src/components/Photo/assets/3.jpg");
+/* harmony import */ var _assets_4_jpg__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ./assets/4.jpg */ "./src/components/Photo/assets/4.jpg");
+/* harmony import */ var _assets_5_jpg__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ./assets/5.jpg */ "./src/components/Photo/assets/5.jpg");
+/* harmony import */ var _assets_6_jpg__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! ./assets/6.jpg */ "./src/components/Photo/assets/6.jpg");
+/* harmony import */ var _assets_7_jpg__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! ./assets/7.jpg */ "./src/components/Photo/assets/7.jpg");
+/* harmony import */ var react_jsx_runtime__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(/*! react/jsx-runtime */ "./node_modules/react/jsx-runtime.js");
+function _slicedToArray(arr, i) { return _arrayWithHoles(arr) || _iterableToArrayLimit(arr, i) || _unsupportedIterableToArray(arr, i) || _nonIterableRest(); }
+
+function _nonIterableRest() { throw new TypeError("Invalid attempt to destructure non-iterable instance.\nIn order to be iterable, non-array objects must have a [Symbol.iterator]() method."); }
+
+function _unsupportedIterableToArray(o, minLen) { if (!o) return; if (typeof o === "string") return _arrayLikeToArray(o, minLen); var n = Object.prototype.toString.call(o).slice(8, -1); if (n === "Object" && o.constructor) n = o.constructor.name; if (n === "Map" || n === "Set") return Array.from(o); if (n === "Arguments" || /^(?:Ui|I)nt(?:8|16|32)(?:Clamped)?Array$/.test(n)) return _arrayLikeToArray(o, minLen); }
+
+function _arrayLikeToArray(arr, len) { if (len == null || len > arr.length) len = arr.length; for (var i = 0, arr2 = new Array(len); i < len; i++) { arr2[i] = arr[i]; } return arr2; }
+
+function _iterableToArrayLimit(arr, i) { var _i = arr == null ? null : typeof Symbol !== "undefined" && arr[Symbol.iterator] || arr["@@iterator"]; if (_i == null) return; var _arr = []; var _n = true; var _d = false; var _s, _e; try { for (_i = _i.call(arr); !(_n = (_s = _i.next()).done); _n = true) { _arr.push(_s.value); if (i && _arr.length === i) break; } } catch (err) { _d = true; _e = err; } finally { try { if (!_n && _i["return"] != null) _i["return"](); } finally { if (_d) throw _e; } } return _arr; }
+
+function _arrayWithHoles(arr) { if (Array.isArray(arr)) return arr; }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+var Photo = function Photo() {
+  var dataImg = [{
+    id: 1,
+    src: _assets_1_jpg__WEBPACK_IMPORTED_MODULE_2__
+  }, {
+    id: 2,
+    src: _assets_2_jpg__WEBPACK_IMPORTED_MODULE_3__
+  }, {
+    id: 3,
+    src: _assets_3_jpg__WEBPACK_IMPORTED_MODULE_4__
+  }, {
+    id: 4,
+    src: _assets_4_jpg__WEBPACK_IMPORTED_MODULE_5__
+  }, {
+    id: 5,
+    src: _assets_5_jpg__WEBPACK_IMPORTED_MODULE_6__
+  }, {
+    id: 6,
+    src: _assets_6_jpg__WEBPACK_IMPORTED_MODULE_7__
+  }, {
+    id: 7,
+    src: _assets_7_jpg__WEBPACK_IMPORTED_MODULE_8__
+  }];
+
+  var _useState = (0,react__WEBPACK_IMPORTED_MODULE_0__.useState)(false),
+      _useState2 = _slicedToArray(_useState, 2),
+      modal = _useState2[0],
+      setModal = _useState2[1];
+
+  var _useState3 = (0,react__WEBPACK_IMPORTED_MODULE_0__.useState)(''),
+      _useState4 = _slicedToArray(_useState3, 2),
+      tmpSrcImg = _useState4[0],
+      setTmpSrcImg = _useState4[1];
+
+  var getImg = function getImg(src) {
+    setTmpSrcImg(src);
+    setModal(true);
+  };
+
+  return /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_9__.jsxs)(react_jsx_runtime__WEBPACK_IMPORTED_MODULE_9__.Fragment, {
+    children: [/*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_9__.jsxs)("div", {
+      className: modal ? 'modal open' : 'modal',
+      children: [/*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_9__.jsx)("img", {
+        src: tmpSrcImg,
+        alt: "photo"
+      }), /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_9__.jsx)("i", {
+        className: "fa fa-times",
+        onClick: function onClick() {
+          return setModal(false);
+        }
+      })]
+    }), /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_9__.jsx)("div", {
+      className: "gallery-wrap",
+      children: /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_9__.jsx)("div", {
+        className: "gallery",
+        children: dataImg.map(function (item, index) {
+          return /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_9__.jsx)("div", {
+            className: "imgs",
+            onClick: function onClick() {
+              return getImg(item.src);
+            },
+            children: /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_9__.jsx)("img", {
+              src: item.src,
+              alt: "photo",
+              style: {
+                width: '100%'
+              }
+            })
+          }, index);
+        })
+      })
+    })]
+  });
+};
+
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (Photo);
+
+/***/ }),
+
+/***/ "./src/components/Photo/index.jsx":
+/*!****************************************!*\
+  !*** ./src/components/Photo/index.jsx ***!
+  \****************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "default": () => (/* reexport safe */ _Photo__WEBPACK_IMPORTED_MODULE_0__.default)
+/* harmony export */ });
+/* harmony import */ var _Photo__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./Photo */ "./src/components/Photo/Photo.jsx");
 
 
 /***/ }),
@@ -964,7 +1082,8 @@ var Social = function Social() {
         children: [/*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)("div", {
           className: "social-link",
           children: /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)("a", {
-            href: "#",
+            href: "https://www.facebook.com/groups/vz.banket",
+            target: "_blank",
             children: /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)("svg", {
               "aria-hidden": "true",
               focusable: "false",
@@ -1002,7 +1121,8 @@ var Social = function Social() {
         }), /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)("div", {
           className: "social-link",
           children: /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)("a", {
-            href: "#",
+            href: "https://kiev.wedpro.com.ua/mc/1682701/",
+            target: "_blank",
             children: /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)("svg", (_jsx2 = {
               viewBox: "0 0 100 100",
               version: "1.1",
@@ -1035,6 +1155,54 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */   "default": () => (/* reexport safe */ _Social__WEBPACK_IMPORTED_MODULE_0__.default)
 /* harmony export */ });
 /* harmony import */ var _Social__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./Social */ "./src/components/Social/Social.jsx");
+
+
+/***/ }),
+
+/***/ "./src/components/Video/Video.jsx":
+/*!****************************************!*\
+  !*** ./src/components/Video/Video.jsx ***!
+  \****************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony import */ var _Video_scss__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./Video.scss */ "./src/components/Video/Video.scss");
+/* harmony import */ var react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! react/jsx-runtime */ "./node_modules/react/jsx-runtime.js");
+
+
+
+
+var Video = function Video() {
+  return /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.Fragment, {
+    children: /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)("div", {
+      className: "video",
+      children: /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)("h4", {
+        children: "\u0412\u0438\u0434\u0435\u043E \u0432\u0441\u043A\u043E\u0440\u0435 \u0431\u0443\u0434\u0435\u0442 \u0434\u043E\u0431\u0430\u0432\u043B\u0435\u043D\u043E!"
+      })
+    })
+  });
+};
+
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (Video);
+
+/***/ }),
+
+/***/ "./src/components/Video/index.jsx":
+/*!****************************************!*\
+  !*** ./src/components/Video/index.jsx ***!
+  \****************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "default": () => (/* reexport safe */ _Video__WEBPACK_IMPORTED_MODULE_0__.default)
+/* harmony export */ });
+/* harmony import */ var _Video__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./Video */ "./src/components/Video/Video.jsx");
 
 
 /***/ }),
@@ -3286,10 +3454,36 @@ __webpack_require__.r(__webpack_exports__);
 
 /***/ }),
 
+/***/ "./src/components/Photo/Photo.scss":
+/*!*****************************************!*\
+  !*** ./src/components/Photo/Photo.scss ***!
+  \*****************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+// extracted by mini-css-extract-plugin
+
+
+/***/ }),
+
 /***/ "./src/components/Social/Social.scss":
 /*!*******************************************!*\
   !*** ./src/components/Social/Social.scss ***!
   \*******************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+// extracted by mini-css-extract-plugin
+
+
+/***/ }),
+
+/***/ "./src/components/Video/Video.scss":
+/*!*****************************************!*\
+  !*** ./src/components/Video/Video.scss ***!
+  \*****************************************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
@@ -41086,10 +41280,10 @@ module.exports = __webpack_require__.p + "images/e61b09cbbd2db87c3bc8.jpg";
 
 /***/ }),
 
-/***/ "./src/components/Gallery/assets/1.jpg":
-/*!*********************************************!*\
-  !*** ./src/components/Gallery/assets/1.jpg ***!
-  \*********************************************/
+/***/ "./src/components/Photo/assets/1.jpg":
+/*!*******************************************!*\
+  !*** ./src/components/Photo/assets/1.jpg ***!
+  \*******************************************/
 /***/ ((module, __unused_webpack_exports, __webpack_require__) => {
 
 "use strict";
@@ -41097,21 +41291,21 @@ module.exports = __webpack_require__.p + "images/7d1f1f5025c61d9aa20e.jpg";
 
 /***/ }),
 
-/***/ "./src/components/Gallery/assets/2.jpg":
-/*!*********************************************!*\
-  !*** ./src/components/Gallery/assets/2.jpg ***!
-  \*********************************************/
+/***/ "./src/components/Photo/assets/2.jpg":
+/*!*******************************************!*\
+  !*** ./src/components/Photo/assets/2.jpg ***!
+  \*******************************************/
 /***/ ((module, __unused_webpack_exports, __webpack_require__) => {
 
 "use strict";
-module.exports = __webpack_require__.p + "images/0ed62563e720ccee89af.jpg";
+module.exports = __webpack_require__.p + "images/7098b44f34ecc11a533b.jpg";
 
 /***/ }),
 
-/***/ "./src/components/Gallery/assets/3.jpg":
-/*!*********************************************!*\
-  !*** ./src/components/Gallery/assets/3.jpg ***!
-  \*********************************************/
+/***/ "./src/components/Photo/assets/3.jpg":
+/*!*******************************************!*\
+  !*** ./src/components/Photo/assets/3.jpg ***!
+  \*******************************************/
 /***/ ((module, __unused_webpack_exports, __webpack_require__) => {
 
 "use strict";
@@ -41119,32 +41313,10 @@ module.exports = __webpack_require__.p + "images/899d5f231a85c74580cd.jpg";
 
 /***/ }),
 
-/***/ "./src/components/Gallery/assets/4.jpg":
-/*!*********************************************!*\
-  !*** ./src/components/Gallery/assets/4.jpg ***!
-  \*********************************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
-
-"use strict";
-module.exports = __webpack_require__.p + "images/f4f0b1e269403f77b565.jpg";
-
-/***/ }),
-
-/***/ "./src/components/Gallery/assets/5.jpg":
-/*!*********************************************!*\
-  !*** ./src/components/Gallery/assets/5.jpg ***!
-  \*********************************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
-
-"use strict";
-module.exports = __webpack_require__.p + "images/d5dfd82fd36494e0325f.jpg";
-
-/***/ }),
-
-/***/ "./src/components/Gallery/assets/6.jpg":
-/*!*********************************************!*\
-  !*** ./src/components/Gallery/assets/6.jpg ***!
-  \*********************************************/
+/***/ "./src/components/Photo/assets/4.jpg":
+/*!*******************************************!*\
+  !*** ./src/components/Photo/assets/4.jpg ***!
+  \*******************************************/
 /***/ ((module, __unused_webpack_exports, __webpack_require__) => {
 
 "use strict";
@@ -41152,10 +41324,32 @@ module.exports = __webpack_require__.p + "images/2bb5674d478138201c85.jpg";
 
 /***/ }),
 
-/***/ "./src/components/Gallery/assets/7.jpg":
-/*!*********************************************!*\
-  !*** ./src/components/Gallery/assets/7.jpg ***!
-  \*********************************************/
+/***/ "./src/components/Photo/assets/5.jpg":
+/*!*******************************************!*\
+  !*** ./src/components/Photo/assets/5.jpg ***!
+  \*******************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+module.exports = __webpack_require__.p + "images/0ed62563e720ccee89af.jpg";
+
+/***/ }),
+
+/***/ "./src/components/Photo/assets/6.jpg":
+/*!*******************************************!*\
+  !*** ./src/components/Photo/assets/6.jpg ***!
+  \*******************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+module.exports = __webpack_require__.p + "images/d5dfd82fd36494e0325f.jpg";
+
+/***/ }),
+
+/***/ "./src/components/Photo/assets/7.jpg":
+/*!*******************************************!*\
+  !*** ./src/components/Photo/assets/7.jpg ***!
+  \*******************************************/
 /***/ ((module, __unused_webpack_exports, __webpack_require__) => {
 
 "use strict";
